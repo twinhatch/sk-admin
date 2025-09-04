@@ -15,5 +15,5 @@ const connectionConfig = {
     // },
 };
 // const URL = 'http://localhost:3000';
-const URL = 'https://traveller.paulbarberapp.com';
+const URL = 'https://apis.sadanamkayyilundo.in/';
 export const socket = SocketIOClient(URL, connectionConfig);

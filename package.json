@@ -30,5 +30,8 @@
     "socket.io-client": "^4.7.2",
     "sweetalert2": "^11.10.7",
     "tailwindcss": "3.3.3"
+  },
+  "engines": {
+    "node": "20.x"
   }
 }

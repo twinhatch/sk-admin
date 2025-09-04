@@ -1,6 +1,6 @@
 import axios from "axios";
 //const ConstantsUrl = "";
-const ConstantsUrl = "https://traveller.paulbarberapp.com";
+const ConstantsUrl = "https://apis.sadanamkayyilundo.in";
 // const ConstantsUrl = "http://localhost:3000";
 // "https://sp-app-api.herokuapp.com"
 
